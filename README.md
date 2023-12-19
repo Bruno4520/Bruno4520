@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="blob:https://web.whatsapp.com/ef47808d-b7aa-4549-8563-67f9fe7f6de7" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Bruno4520/Bruno4520/assets/96317649/308cda89-d8ff-4aad-a190-843bda9df64a" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> <strong> <strong></strong></p>&nbsp;
