@@ -1,12 +1,11 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="(https://github-readme-streak-stats.herokuapp.com?user=bruno4250&theme=jolly&border_radius=10.9&mode=weekly&card_width=525)](https://git.io/streak-stats)](https://p.turbosquid.com/ts-thumb/rS/8dYCog/Aa/thumb1222/jpg/1623617154/600x600/fit_q87/629b74e58732606ccd1e6c47d76d3a933a6e36c1/thumb1222.jpg)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bruno4520&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-bruno4520.vercel.app/api/top-langs/?username=bruno4520&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
