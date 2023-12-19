@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/bruno4520/bruno4520/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turbosquid.com%2Fpt_br%2F3d-models%2F3d-kyojuro-rengoku-nichirin-kimetsu-no-yaiba-demon-slayer-1745541&psig=AOvVaw3D_sVWswr3KZ11ypjt805W&ust=1703105525936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiRktKwnIMDFQAAAAAdAAAAABAD](https://p.turbosquid.com/ts-thumb/rS/8dYCog/Aa/thumb1222/jpg/1623617154/600x600/fit_q87/629b74e58732606ccd1e6c47d76d3a933a6e36c1/thumb1222.jpg)" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
