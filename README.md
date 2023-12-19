@@ -4,9 +4,9 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno4520&theme=radical&hide_border=true" />
-<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno4520&theme=radical&show_icons=true&hide_border=true&count_private=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno4520&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno4520&theme=radical&hide_border=true" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno4520&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+ <img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno4520&theme=radical&show_icons=true&hide_border=true&layout=compact" />
  </div>
  
  &nbsp;
