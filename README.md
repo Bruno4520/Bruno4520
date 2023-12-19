@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Bruno4520/Bruno4520/assets/96317649/308cda89-d8ff-4aad-a190-843bda9df64a" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Bruno4520/Bruno4520/assets/96317649/216601c6-e566-475f-a83b-b5110652fcc8" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> <strong> <strong></strong></p>&nbsp;
