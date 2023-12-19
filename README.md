@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github-production-user-asset-6210df.s3.amazonaws.com/96317649/291714992-f5bd5fe1-d8f1-4296-843a-8b0ff2fc7219.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231219T211324Z&X-Amz-Expires=300&X-Amz-Signature=8a5c2e243b4a0cdb69699b48fae380f2b44e76316861b7c64d3b5bd2e60ebd2b&X-Amz-SignedHeaders=host&actor_id=96317649&key_id=0&repo_id=439502497" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
