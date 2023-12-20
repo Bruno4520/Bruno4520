@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Bruno4520/Bruno4520/assets/96317649/216601c6-e566-475f-a83b-b5110652fcc8" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> <strong> <strong></strong></p>&nbsp;
+<p align="center">Computer engineering student at UNIFEI, I am an extremely curious person, looking to acquire new knowledge and developments <strong> <strong></strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno4520&theme=radical&hide_border=true" />
