@@ -3,7 +3,7 @@
 
 <p align="center">Olá, sou Bruno Elias
 
-🚀 Desenvolvedor(a) de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado(a) por Aprendizado <strong> <strong></strong></p>&nbsp;
+🚀 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado(a) por Aprendizado <strong> <strong></strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno4520&theme=radical&hide_border=true" />
