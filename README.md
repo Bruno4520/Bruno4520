@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Bruno4520/Bruno4520/assets/96317649/216601c6-e566-475f-a83b-b5110652fcc8" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, sou [Seu Nome]
+<p align="center">Olá, sou Bruno Elias
 
 🚀 Desenvolvedor(a) de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado(a) por Aprendizado <strong> <strong></strong></p>&nbsp;
 
