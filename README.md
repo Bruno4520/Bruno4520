@@ -5,7 +5,7 @@
 
 🚀 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado por Aprendizado <strong> 
 - 👩‍🎓 Estudante de Engenharia de Computação na Unifei.
-- 💡 Interessado(a) em explorar as fronteiras da tecnologia e inovação.
+- 💡 Interessado em explorar as fronteiras da tecnologia e inovação.
 - 🌐 Aprendendo e aplicando conceitos de ciência da computação para resolver problemas do mundo real.
 <strong></strong></p>&nbsp;
 
