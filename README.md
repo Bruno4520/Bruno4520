@@ -3,7 +3,7 @@
 
 <p align="center">Olá, sou Bruno Elias
 
-🚀 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado(a) por Aprendizado <strong> -👩‍🎓 Estudante de Engenharia de Computação na Unifei.
+🚀 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Apaixonado(a) por Aprendizado <strong> - 👩‍🎓 Estudante de Engenharia de Computação em [Nome da Instituição].
 - 💡 Interessado(a) em explorar as fronteiras da tecnologia e inovação.
 - 🌐 Aprendendo e aplicando conceitos de ciência da computação para resolver problemas do mundo real.
 <strong></strong></p>&nbsp;
